@@ -9,7 +9,7 @@ func main() {
 	fmt.Println("I want to create new function")
 
 	foo()
-	
+
 	fmt.Println("I want to show prime number")
 
 	w = "Ditanyain, ditaruk, dimakan, diminum, ditampar"
